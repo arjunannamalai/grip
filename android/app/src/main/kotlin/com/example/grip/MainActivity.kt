@@ -1,4 +1,4 @@
-package com.example.grip
+package com.arjun.grip
 
 import io.flutter.embedding.android.FlutterActivity
 

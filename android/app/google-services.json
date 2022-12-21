@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1044956378515",
+    "project_id": "grip-d2cbc",
+    "storage_bucket": "grip-d2cbc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044956378515:android:16745ad3cf4c73b6842466",
+        "android_client_info": {
+          "package_name": "com.arjun.grip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044956378515-1t408fj4opsf877i3m5nfe4t784iirea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwo-z667ouqnRX9JNx0_xUCRvnJDGvOFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1044956378515-1t408fj4opsf877i3m5nfe4t784iirea.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
